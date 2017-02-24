@@ -1,1 +1,1 @@
-# studybuddy
+# studybuddy v0.0
